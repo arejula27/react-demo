@@ -1,6 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started 
+## Pre requisites
+  - Docker/podman
+  - Vscode
+  - Vs code remote devcontainer extension
+## Start developing
+Clone the repository and open it with vscode.It will ask you for open it on a container, accept. Wait until the container is create
+and execute  `yarn install`. Now you are ready for depeloping.
 
 ## Available Scripts
 
